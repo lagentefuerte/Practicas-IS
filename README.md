@@ -44,6 +44,6 @@ Este repositorio contiene una recopilación de prácticas realizadas en el marco
 
 ## 🤝 Colaboradores
 
-- [Martín Díaz BenitoÁlvarez
-- Juan Carlos Sastre García
+- Martín Díaz-Benito
+- Juan Carlos Sastre
 
